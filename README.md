@@ -47,7 +47,6 @@ Min Sdk Version : 23
 로직상 처리하는 데에는 문제가 없었는데 UI면에서 프레임을 많이 잡아먹는 문제가 생긴 것. 따라서 LinearLayout으로 바꿈.
 LinearLayout으로 바꾸니까 기존에 구현한 Layout들이 깨지는 문제가 발생. 전체를 고치는 것은 시간 소요가 많이 되므로 해결 위해 ConstraintLayout으로 바꿔서 해결.
 
-참고자료: 
 ![image](https://user-images.githubusercontent.com/50612841/124373747-eef05180-dccf-11eb-9a68-da2a02a6e3e2.png)
 https://stackoverflow.com/questions/17493819/is-android-layout-really-exponentially-hard
 ![image](https://user-images.githubusercontent.com/50612841/124373749-f31c6f00-dccf-11eb-91e0-b708cabdb63a.png)
