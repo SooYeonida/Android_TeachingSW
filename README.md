@@ -14,7 +14,7 @@ Min Sdk Version : 23
 <img src="https://user-images.githubusercontent.com/50612841/104472615-7998a380-55ff-11eb-896c-8c7404494547.png" width="80%" height="80%"></img>
 <img src="https://user-images.githubusercontent.com/50612841/104472595-73a2c280-55ff-11eb-94db-f62555f73934.png" width="80%" height="80%"></img>
 
-## 1. 구현 과정
+## 1. 구현 
 1. 명령어 드래그앤 드랍 기능 먼저 구현
 ![test ](https://user-images.githubusercontent.com/50612841/124373958-e0a33500-dcd1-11eb-98d9-11ee65b644ce.gif)
 
